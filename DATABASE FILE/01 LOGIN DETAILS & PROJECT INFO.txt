@@ -8,3 +8,8 @@
 Username: admin
 Password: Password@123
 
+
+**security Login Details**
+
+Username: security
+Password: Password@123
